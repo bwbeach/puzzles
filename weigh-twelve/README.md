@@ -24,7 +24,7 @@ The visualization of the nodes uses these symbols:
  - green - a marble placed on the left side of the scale at the next weighing
  - pink - a marble placed on the right side at the next weighing
 
-In the tree, the left branch is the left side (green) being heavier, the right branche is the right
+In the tree, the left branch is the left side (green) being heavier, the right branch is the right
 side (pink) being heavier, and the middle is the weights being equal.
 
 The [full image](tree.png) is pretty wide.  Here's the left half:
@@ -32,4 +32,4 @@ The [full image](tree.png) is pretty wide.  Here's the left half:
 ![tree showing the sequence of weighings](left-half.png)
 
 After doing all this, I found the [same solution described on the "puzzling" stackechange](https://puzzling.stackexchange.com/questions/183/twelve-balls-and-a-scale).
-The same entrie also has a better solution where the sequence of weighings does not depend on the results of weighings.  Much more elagant.
+The same entry also has a better solution where the sequence of weighings does not depend on the results of weighings.  Much more elagant.
