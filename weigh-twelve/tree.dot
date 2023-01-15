@@ -1,0 +1,110 @@
+digraph G {
+    node [shape="rect" label=""]
+
+    root [image="root.node.svg"]
+    a [image="a.node.svg"]
+    b [image="b.node.svg"]
+    c [image="c.node.svg"]
+
+    a1 [image="a1.node.svg"]
+    a2 [image="a2.node.svg"]
+    a3 [image="a3.node.svg"]
+
+    a1a [image="a1a.node.svg"]
+    a1b [image="a1b.node.svg"]
+    a1c [image="a1c.node.svg"]
+
+    a2a [image="a2a.node.svg"]
+    a2b [image="a2b.node.svg"]
+    a2c [image="a2c.node.svg"]
+
+    a3a [image="a3a.node.svg"]
+    a3b [image="a3b.node.svg"]
+    a3c [image="a3c.node.svg"]
+
+    b1 [image="b1.node.svg"]
+    b2 [image="b2.node.svg"]
+    b3 [image="b3.node.svg"]
+
+    b1a [image="b1a.node.svg"]
+    b1b [image="b1b.node.svg"]
+    b1c [image="b1c.node.svg"]
+
+    b2a [image="b2a.node.svg"]
+    b2b [image="b2b.node.svg"]
+    b2c [image="b2c.node.svg"]
+
+    b3a [image="b3a.node.svg"]
+    b3b [image="b3b.node.svg"]
+    b3c [image="b3c.node.svg"]
+
+    c1 [image="c1.node.svg"]
+    c2 [image="c2.node.svg"]
+    c3 [image="c3.node.svg"]
+
+    c1a [image="c1a.node.svg"]
+    c1b [image="c1b.node.svg"]
+    c1c [image="c1c.node.svg"]
+
+    c2a [image="c2a.node.svg"]
+    c2b [image="c2b.node.svg"]
+    c2c [image="c2c.node.svg"]
+
+    c3a [image="c3a.node.svg"]
+    c3b [image="c3b.node.svg"]
+    c3c [image="c3c.node.svg"]
+
+
+    root -> a
+    root -> b
+    root -> c
+    
+    a -> a1
+    a -> a2
+    a -> a3
+
+    a1 -> a1a
+    a1 -> a1b
+    a1 -> a1c
+
+    a2 -> a2a
+    a2 -> a2b
+    a2 -> a2c
+
+    a3 -> a3a
+    a3 -> a3b
+    a3 -> a3c
+
+    b -> b1
+    b -> b2
+    b -> b3
+
+    b1 -> b1a
+    b1 -> b1b
+    b1 -> b1c
+
+    b2 -> b2a
+    b2 -> b2b
+    b2 -> b2c
+
+    b3 -> b3a
+    b3 -> b3b
+    b3 -> b3c
+
+    c -> c1
+    c -> c2
+    c -> c3
+
+    c1 -> c1a
+    c1 -> c1b
+    c1 -> c1c
+
+    c2 -> c2a
+    c2 -> c2b
+    c2 -> c2c
+
+    c3 -> c3a
+    c3 -> c3b
+    c3 -> c3c
+}
+
